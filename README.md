@@ -1,3 +1,12 @@
-# Contemporary Issues In Data
+# Contemporary Issues In Data - The TikTok Data Issue
+- The two articles I found are about different views regarding the issue of indicting that TikTok, or ByteDance, is storing and sharing data of its US users in China or by Chinese workers through Lark, another app by ByteDance.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+The first article I found is from The New York Times [Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data](https://cn.nytimes.com/technology/20230525/inside-how-tiktok-shares-user-data-lark/dual/). The article introduced some specific examples of American users' data being shared in the group chats in Lark, and with the concept of China entering, the issue became bigger than data leaks itself but also some political issues going on. It then introduces the hearing and other official conferences where different officers of TikTok talk about their thoughts on the accusations, as well as the Project Texas that was put forward to try to solve such data-security-related issues.
+
+I personally think this article is more like stating our objectives but not stating a clear view on this issue. However, the proofs that it chose might show a preference for what's not in favor of TikTok or ByteDance as a whole. It focused on the differences between what different managers of TikTok have said and didn't have a positive view of when and whether Project Texas will work. Overall, it effectively articulates the issue, offering insights into various perspectives.
+
+## Article 2
+The second article is from PBS [Why a ban on TikTok won’t solve all data privacy concerns](https://www.pbs.org/newshour/nation/why-a-ban-on-tiktok-wont-solve-all-data-privacy-concerns), where we can know from the title that the author doesn't think it's rational to only put pressure on TikTok in order to lift the concerns on data privacies in the US. The author states her opinion that this is more like a social security issue instead of a data privacy issue since many other big internet companies are also collecting and using their users' data. And thus, banning a single app won't work. The policy laws should play a bigger role in solving data security issues.
+
+Despite having a stronger stance, this article lacks detailed evidence to bolster its perspective, making it less convincing upon examination. While it acknowledges other factors influencing the data issue, it falls short of providing comprehensive reasoning and information. Its concise structure, however, makes it suitable for quick reading.
